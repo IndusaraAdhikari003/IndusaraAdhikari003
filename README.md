@@ -44,7 +44,7 @@ I am a highly motivated and enthusiastic undergraduate student with a strong int
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IndusaraAdhikari003&show_icons=true&theme=tokyonight" />
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=IndusaraAdhikari003&theme=tokyonight" />
 </p>
 
