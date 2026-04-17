@@ -19,7 +19,7 @@ I am a highly motivated and enthusiastic undergraduate student with a strong int
 ### 🛠️ Languages & Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,html,css,js,docker,git,github,vscode,mysql" />
+    <img src="https://skillicons.dev/icons?i=java,html,css,js,docker,git,github,vscode,mysql,jquery,php,postman" />
   </a>
 </p>
 
