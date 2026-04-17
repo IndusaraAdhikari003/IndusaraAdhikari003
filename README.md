@@ -50,6 +50,17 @@ I am a highly motivated and enthusiastic undergraduate student with a strong int
 
 ---
 
+### 📫 Connect With Me
+<p align="left">
+ 
+  
+  <a href="https://www.linkedin.com/in/indusara-adhikari-842aab326/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
 <p align="center">
   <i>“Consistent learning and continuous improvement lead to success.”</i>
 </p>
